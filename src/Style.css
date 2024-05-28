@@ -1,0 +1,297 @@
+.image1{
+    height: 91px;
+    width: 170px;
+    padding: 0px 0px 1px ;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px;
+    color: #f8d189;
+    font-family: sans-serif;
+}
+.v{
+    padding: 2%;
+    gap:100px;
+}
+.me-auto{
+    gap: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #ffffff;
+    font-family: sans-serif;
+    padding-top: 20px;
+}
+.make{
+    font-weight: 400;
+    font-size: 19px;
+    font-style: normal;
+    line-height: 17px;
+    font-family: sans-serif;
+    color: #575755;
+    background-color: #f8d189;
+    padding: 17px;
+}
+.dive{
+    font-style: normal;
+    line-height: 31px;
+    font-size: 18px;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: 400;
+    text-align: left;
+}
+.ceaser{
+    font-style: normal;
+    line-height: 84px;
+    font-size: 84px;
+    color: #ffffff;
+    font-family: "DM Serif Display", serif;;
+    font-weight: 400;  
+    text-align: left;
+}
+.lorem{
+    font-style: normal;
+    line-height: 26px;
+    font-size: 15px;
+    color: #c2c2c2;
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    text-align: left;   
+}
+.bttn{
+    font-weight: 400;
+    font-size: 19px;
+    font-style: normal;
+    line-height: 17px;
+    font-family: sans-serif;
+    color: #575755;
+    background-color: #f8d189;
+    padding: 17px;
+    display: flex;
+    justify-content: flex-start;  
+}
+.block{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 20%;
+}
+.bg{
+  
+    background:linear-gradient( rgba(0, 0, 0, 0.5) 100%, rgba(0, 0, 0, 0.5)100%),url("./images/back.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+  }
+  .doss{
+    color: antiquewhite;
+    padding: 7%;
+    font-size: 16px;
+  }
+.mm{
+    text-align: center;
+    background-color: black;
+     color: rgb(241, 236, 236);
+    
+}
+
+.text{padding: 8%;
+    font-family: "DM Serif Display", serif;
+    font-style: normal;
+    font-weight: 400;
+   font-size: 80px;
+    line-height: 84px;
+    color:#ffffff;
+    text-align: center;
+}
+    .imag{
+        height:400px;
+        width:110%;
+        }
+        .imag:hover{
+        background-color: #000;
+        opacity: .29;
+        }
+        .head-text {
+            position: relative;
+          }
+          .text-on-image {
+           position: absolute;
+           right: 20%;
+           left: 20%;
+           bottom: 5%;
+           color: white;
+          }
+          .imag1{
+            width:110%;
+            height:400px;
+          }
+          .imag1:hover{
+            background-color: #000;
+          opacity: .29;
+          }
+    .line{
+        text-align: center;
+        color:#ffffff ;
+        font-weight: 400;
+      font-size: 52px;
+        font-family: "DM Serif Display", serif;
+        line-height: 52px;
+        font-style: normal;
+        
+    }
+    .para{
+        text-align: center;
+        color: #c2c2c2; ;
+        font-weight: 400;
+      font-size: 15px;
+        font-family:Poppins, sans-serif;
+        line-height: 26px;
+        font-style: normal; 
+    }
+    .im{
+        
+        color: #c2c2c2; ;
+        font-weight: 400;
+      font-size: 15px;
+        font-family:Poppins, sans-serif;
+        line-height: 26px;
+        font-style: normal; 
+        height: 100%;
+        width: 110%;
+    }
+    .shadow{
+        height: 55%;
+      
+      }
+      .shadow2{
+        height: 40%;
+        
+      }
+      .shadow4{
+        width: 100%;
+        height: 40%;
+      }
+      .shadow22{
+        height: 55%;
+      }
+      .textsize{
+        font-family: "DM Serif Display", serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 31px;
+        font-size: 18px;
+        color: #ffffff;
+        text-align: left;
+      }
+      .textsize2{
+        font-family: "DM Serif Display", serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 62px;
+        font-size: 62px;
+        color: #e2c48e;
+        text-align: left;
+      }
+      .size2{
+        font-family: "DM Serif Display", serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        font-size: 15px;
+        color: #c2c2c2;
+        text-align: left;
+      
+      }
+      .sizee{
+        font-family: "DM Serif Display", serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 62px;
+        font-size: 35px;
+        color: #ffffff;
+      }
+      .sizing{
+        font-family: "DM Serif Display", serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        font-size: 15px;
+        color: #c2c2c2;
+      
+      }
+      .imtt{
+        height: 280px;
+        width: 300px;
+      }
+      .imt{
+        height: 300px;
+        width: 300px;
+      }
+      .sizeee{
+        font-family: "DM Serif Display", serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 35px;
+        font-size: 22px;
+        color: #ffffff;
+      }
+      .sizingg{
+        font-family: "DM Serif Display", serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        font-size: 15px;
+        color: #c2c2c2;
+      }
+      .linee{
+        padding-top: 80px;
+        font-family:"DM Serif Display", serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 52px;
+        font-size: 52px;
+        color: #ffffff;
+        
+      }
+      .ll{
+        font-family:Poppins, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        font-size: 15px;
+        color: #c2c2c2; 
+       
+      }
+      .r{
+        font-family:"DM Serif Display", serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 62px;
+        font-size: 62px;
+        color: #e2c48e; 
+       
+       
+      }
+      .size22{
+        font-family:Poppins, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 31px;
+        font-size: 18px;
+        color: #c2c2c2; 
+      }
+      .book{
+        font-weight: 400;
+        font-size: 19px;
+        font-style: normal;
+        line-height: 17px;
+        font-family: sans-serif;
+        color: #575755;
+        background-color: #f8d189;
+        padding: 17px;
+        
+      }
